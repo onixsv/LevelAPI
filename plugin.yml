@@ -1,0 +1,11 @@
+name: LevelAPI
+author: alvin0319
+main: alvin0319\LevelAPI\LevelAPI
+version: 1.0.0
+api: 4.0.0
+
+permissions:
+  levelapi.command.use:
+    default: true
+  levelapi.command.toplevel:
+    default: true
